@@ -12,6 +12,19 @@
       <change beforePath="$PROJECT_DIR$/../../fizzbuzz-application/out/production/fizzbuzz-application/FizzBuzzFinder.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fizzbuzz-application/src/FizzBuzzApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../fizzbuzz-application/src/FizzBuzzFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream-application/caesarapplication/CacearApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream-application/caesarapplication/CacearApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream-application/caesarapplication/Caesar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream-application/caesarapplication/Caesar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream-application/caesarapplication/TextAndKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream-application/caesarapplication/TextAndKey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream-application/streamapplication/StreamApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream-application/streamapplication/StreamApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream-application/streamapplication/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caesarapplication/CacearApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caesarapplication/CacearApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caesarapplication/Caesar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caesarapplication/Caesar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caesarapplication/TextAndKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/caesarapplication/TextAndKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streamapplication/StreamApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamapplication/StreamApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streamapplication/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamintestapplication/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stream-application.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,40 +33,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/caesarapplication/Caesar.java">
+        <entry file="file://$PROJECT_DIR$/src/caesarapplication/tests/CaesarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caesarapplication/TextAndKey.java">
+        <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/HighRankedFilmsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/caesarapplication/CacearApplication.java">
+        <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/MostExpensiveFilmsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            <state relative-caret-position="60">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -63,30 +81,70 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/streamapplication/StreamApplication.java" />
         <option value="$PROJECT_DIR$/src/streamapplication/StreamTestTest.java" />
         <option value="$PROJECT_DIR$/src/streamapplication/FileReader.java" />
         <option value="$PROJECT_DIR$/src/streamapplication/StreamTest.java" />
         <option value="$PROJECT_DIR$/src/caesarapplication/TextAndKey.java" />
-        <option value="$PROJECT_DIR$/src/caesarapplication/CacearApplication.java" />
+        <option value="$PROJECT_DIR$/src/caesarapplication/Paramter.java" />
         <option value="$PROJECT_DIR$/src/caesarapplication/Caesar.java" />
+        <option value="$PROJECT_DIR$/src/caesarapplication/StringFile.java" />
+        <option value="$PROJECT_DIR$/src/caesarapplication/CaesarTest.java" />
+        <option value="$PROJECT_DIR$/src/happiness/DataExtractMethods.java" />
+        <option value="$PROJECT_DIR$/src/happiness/HappinessRecord.java" />
+        <option value="$PROJECT_DIR$/src/happiness/Recoreds.java" />
+        <option value="$PROJECT_DIR$/src/happiness/Records.java" />
+        <option value="$PROJECT_DIR$/src/happiness/HappinessRecordTest.java" />
+        <option value="$PROJECT_DIR$/src/happiness/HappinessApplication.java" />
+        <option value="$PROJECT_DIR$/src/caesarapplication/CacearApplication.java" />
+        <option value="$PROJECT_DIR$/src/streamtest/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/streamapplication/StreamApplication.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabase/FilmReaderr.java" />
+        <option value="$PROJECT_DIR$/src/film/S.java" />
+        <option value="$PROJECT_DIR$/src/film/FilmReader.java" />
+        <option value="$PROJECT_DIR$/src/film/FilmSummarizer.java" />
+        <option value="$PROJECT_DIR$/src/film/FilmApplication.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabase/FilmReader.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabase/FilmSummarizer.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabase/FilmApplication.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabase/Film.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/Film.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/FilmSummarizer.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/FilmReader.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/HighRankedFilms.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/HighRankedFilmsLonger3Hour.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/HighRankedFilmsLonger3HourTest.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/HighRankedFilmsTest.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/MostExpensiveFilmsTest.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/MostExpensiveShorterThanOneAndHalfTest.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/FilmDatabaseFiltersTest.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/FilmDatabaseFilters.java" />
+        <option value="$PROJECT_DIR$/src/filmdatabaseapplication/FilmApplication.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="423" />
     <option name="y" value="27" />
-    <option name="width" value="776" />
+    <option name="width" value="943" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -98,7 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,11 +169,81 @@
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="caesarapplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="caesarapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="caesarapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="CaesarTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="filmdatabaseapplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="filmdatabaseapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="filmdatabaseapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="HighRankedFilmsLonger3HourTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="filmdatabaseapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="MostExpensiveShorterThanOneAndHalfTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="filmdatabaseapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="FilmApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="happinessapplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stream-application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="happinessapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="HappinessApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,25 +253,35 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556217184420" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556823733526" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/junit-jupiter-api-5.0.0.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-jupiter-params-5.3.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="filmdatabaseapplication" />
+      <recent name="happiness" />
+      <recent name="caesarapplication" />
       <recent name="streamapplication" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/film" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="caesarapplication" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,13 +296,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CacearApplication">
-    <configuration name="CacearApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="caesarapplication.CacearApplication" />
+  <component name="RunManager" selected="Application.FilmApplication">
+    <configuration name="FilmApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="filmdatabaseapplication.FilmApplication" />
       <module name="stream-application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="caesarapplication.*" />
+          <option name="PATTERN" value="filmdatabaseapplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,77 +310,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.getLettersExactlyFourCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HappinessApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="happinessapplication.HappinessApplication" />
       <module name="stream-application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamapplication.*" />
+          <option name="PATTERN" value="happinessapplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="streamapplication" />
-      <option name="MAIN_CLASS_NAME" value="streamapplication.StreamTest" />
-      <option name="METHOD_NAME" value="getLettersExactlyFourCharacters" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.namesContainLettersEandR" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FilmDatabaseFiltersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamapplication.*" />
+          <option name="PATTERN" value="filmdatabaseapplication.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="streamapplication" />
-      <option name="MAIN_CLASS_NAME" value="streamapplication.StreamTest" />
-      <option name="METHOD_NAME" value="namesContainLettersEandR" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="filmdatabaseapplication.tests" />
+      <option name="MAIN_CLASS_NAME" value="filmdatabaseapplication.tests.FilmDatabaseFiltersTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.testStreams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FilmDatabaseFiltersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamapplication.*" />
+          <option name="PATTERN" value="filmdatabaseapplication.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="streamapplication" />
-      <option name="MAIN_CLASS_NAME" value="streamapplication.StreamTest" />
-      <option name="METHOD_NAME" value="testStreams" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="filmdatabaseapplication.tests" />
+      <option name="MAIN_CLASS_NAME" value="filmdatabaseapplication.tests.FilmDatabaseFiltersTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.testWordEndsWithm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HighRankedFilms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="stream-application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streamapplication.*" />
+          <option name="PATTERN" value="filmdatabaseapplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="streamapplication" />
-      <option name="MAIN_CLASS_NAME" value="streamapplication.StreamTest" />
-      <option name="METHOD_NAME" value="testWordEndsWithm" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="filmdatabaseapplication" />
+      <option name="MAIN_CLASS_NAME" value="filmdatabaseapplication.HighRankedFilms" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostExpensiveShorterThanOneAndHalfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stream-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="filmdatabaseapplication.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="filmdatabaseapplication.tests" />
+      <option name="MAIN_CLASS_NAME" value="filmdatabaseapplication.tests.MostExpensiveShorterThanOneAndHalfTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CacearApplication" />
-        <item itemvalue="JUnit.StreamTest.getLettersExactlyFourCharacters" />
-        <item itemvalue="JUnit.StreamTest.namesContainLettersEandR" />
-        <item itemvalue="JUnit.StreamTest.testWordEndsWithm" />
-        <item itemvalue="JUnit.StreamTest.testStreams" />
+        <item itemvalue="Application.FilmApplication" />
+        <item itemvalue="Application.HappinessApplication" />
+        <item itemvalue="JUnit.FilmDatabaseFiltersTest" />
+        <item itemvalue="JUnit.MostExpensiveShorterThanOneAndHalfTest" />
       </list>
     </recent_temporary>
   </component>
@@ -259,57 +405,98 @@
       <workItem from="1556112522027" duration="9751000" />
       <workItem from="1556202895653" duration="266000" />
       <workItem from="1556203203742" duration="10549000" />
+      <workItem from="1556283423777" duration="10151000" />
+      <workItem from="1556297487598" duration="51000" />
+      <workItem from="1556548133675" duration="32700000" />
+      <workItem from="1556631077528" duration="21183000" />
+      <workItem from="1556654772807" duration="5734000" />
+      <workItem from="1556678448079" duration="15744000" />
+      <workItem from="1556802300070" duration="12016000" />
+      <workItem from="1556823053394" duration="703000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StreamTest_testWordEndsWithm - 2019.04.24 at 11h 43m 58s.xml">
-      <configuration name="StreamTest.testWordEndsWithm" configurationId="JUnit" />
+    <history-entry file="HighRankedFilms_findHighRankedFilms - 2019.05.02 at 14h 08m 48s.xml">
+      <configuration name="HighRankedFilms.findHighRankedFilms" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_testWordEndsWithm - 2019.04.24 at 11h 44m 26s.xml">
-      <configuration name="StreamTest.testWordEndsWithm" configurationId="JUnit" />
+    <history-entry file="HighRankedFilmsTest - 2019.05.02 at 14h 11m 03s.xml">
+      <configuration name="HighRankedFilmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_testWordEndsWithm - 2019.04.24 at 11h 44m 38s.xml">
-      <configuration name="StreamTest.testWordEndsWithm" configurationId="JUnit" />
+    <history-entry file="HighRankedFilmsTest - 2019.05.02 at 14h 11m 36s.xml">
+      <configuration name="HighRankedFilmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_testWordEndsWithm - 2019.04.24 at 11h 47m 31s.xml">
-      <configuration name="StreamTest.testWordEndsWithm" configurationId="JUnit" />
+    <history-entry file="MostExpensiveFilmsTest - 2019.05.02 at 14h 14m 29s.xml">
+      <configuration name="MostExpensiveFilmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_testWordEndsWithm - 2019.04.24 at 11h 47m 50s.xml">
-      <configuration name="StreamTest.testWordEndsWithm" configurationId="JUnit" />
+    <history-entry file="MostExpensiveFilmsTest - 2019.05.02 at 14h 14m 45s.xml">
+      <configuration name="MostExpensiveFilmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_namesContainLettersEandR - 2019.04.24 at 11h 51m 23s.xml">
-      <configuration name="StreamTest.namesContainLettersEandR" configurationId="JUnit" />
+    <history-entry file="MostExpensiveShorterThanOneAndHalfTest - 2019.05.02 at 14h 16m 36s.xml">
+      <configuration name="MostExpensiveShorterThanOneAndHalfTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_namesContainLettersEandR - 2019.04.24 at 11h 52m 10s.xml">
-      <configuration name="StreamTest.namesContainLettersEandR" configurationId="JUnit" />
+    <history-entry file="MostExpensiveShorterThanOneAndHalfTest - 2019.05.02 at 14h 16m 55s.xml">
+      <configuration name="MostExpensiveShorterThanOneAndHalfTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_getLettersExactlyFourCharacters - 2019.04.24 at 11h 57m 06s.xml">
-      <configuration name="StreamTest.getLettersExactlyFourCharacters" configurationId="JUnit" />
+    <history-entry file="FilmDatabaseFiltersTest - 2019.05.02 at 14h 18m 37s.xml">
+      <configuration name="FilmDatabaseFiltersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_getLettersExactlyFourCharacters - 2019.04.24 at 11h 58m 18s.xml">
-      <configuration name="StreamTest.getLettersExactlyFourCharacters" configurationId="JUnit" />
+    <history-entry file="FilmDatabaseFiltersTest - 2019.05.02 at 14h 18m 55s.xml">
+      <configuration name="FilmDatabaseFiltersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamTest_getLettersExactlyFourCharacters - 2019.04.24 at 11h 58m 48s.xml">
-      <configuration name="StreamTest.getLettersExactlyFourCharacters" configurationId="JUnit" />
+    <history-entry file="FilmDatabaseFiltersTest_(1) - 2019.05.02 at 14h 34m 06s.xml">
+      <configuration name="FilmDatabaseFiltersTest (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20566000" />
+    <option name="totallyTimeSpent" value="118848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33610272" />
+      <window_info id="Structure" internal_type="SLIDING" order="1" side_tool="true" type="SLIDING" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22628951" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5557404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.049916804" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294509" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32930514" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3286517" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23791541" />
+      <window_info id="Structure" internal_type="SLIDING" order="1" side_tool="true" type="SLIDING" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.14143094" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39101496" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,10 +514,10 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3286517" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -339,7 +526,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/streamapplication/StreamTest.java</url>
+          <url>file://$PROJECT_DIR$/src/streamintestapplication/StreamTest.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -349,20 +536,88 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/streamapplication/StreamTestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/streamapplication/StreamApplication.java">
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/function/IntConsumer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        <state relative-caret-position="120">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/Paramter.java" />
+    <entry file="file://$PROJECT_DIR$/src/streamapplication/names.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/Caesar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#414#445#1" />
+            <element signature="method#isNotAlphabeticLetter#0;class#Caesar#0" />
+            <element signature="e#1136#1193#1" />
+            <element signature="e#1239#1240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/TextAndKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/StringFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/streamapplication/StreamTest.java">
+    <entry file="file://$PROJECT_DIR$/src/happiness/DataExtractMethods.java" />
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/function/Consumer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="54" column="70" selection-start-line="54" selection-start-column="70" selection-end-line="54" selection-end-column="70" />
+        <state relative-caret-position="120">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/happiness/worldHappinessRecord.csv" />
+    <entry file="file://$PROJECT_DIR$/src/happinessapplication/Records.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/CacearApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamintestapplication/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -371,41 +626,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/streamapplication/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="36">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/caesarapplication/CacearApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/streamapplication/StreamApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/happinessapplication/HappinessRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/films.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/film/S.java" />
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/FilmReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/caesarapplication/TextAndKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/caesarapplication/Caesar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/Film.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/FilmDatabaseFilters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/happinessapplication/tests/HappinessRecordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/FilmDatabaseFiltersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/HighRankedFilmsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/MostExpensiveFilmsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/FilmApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/happinessapplication/HappinessApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/MostExpensiveShorterThanOneAndHalfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/filmdatabaseapplication/tests/HighRankedFilmsLonger3HourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/caesarapplication/tests/CaesarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -485,7 +840,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit-jupiter-api-5.0.0</last-edited>
+          <last-edited>junit-jupiter-params-5.3.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -14,14 +14,7 @@ public class TextAndKey {
   }
 
   public String getPlainText() {
-    return plainText.toString();
+    return plainText;
   }
 
-  @Override
-  public String toString() {
-    return "TextAndKey{" +
-        "plainText='" + plainText + '\'' +
-        ", key=" + key +
-        '}';
-  }
 }
